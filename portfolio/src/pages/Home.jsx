@@ -14,7 +14,7 @@ function Home() {
           <p>
             Je suis intégrateur web passionné, spécialisé dans la création
             d’interfaces modernes, performantes et accessibles. Après ma formation,
-            je conçois des sites web responsive en HTML, CSS et React.
+            je conçois des sites web responsive en HTML, CSS, React et autres...
           </p>
 
           <a href="/projects" className="btn">Voir mes projets</a>
