@@ -5,10 +5,10 @@ function Home() {
   return (
     <main className="home">
       <section className="hero">
-        <img src={profile} alt="Njoya Aoudou développeur web" className="profile-img" />
+        <img src={profile} alt="Kouotou Arouna développeur web" className="profile-img" />
 
         <div className="hero-text">
-          <h1>Njoya Aoudou</h1>
+          <h1>Kouotou Arouna</h1>
           <h2>Intégrateur Web diplômé</h2>
 
           <p>

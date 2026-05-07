@@ -34,3 +34,55 @@
   background-color: white;
   color: black;
 }
+
+
+/* 📱 RESPONSIVE TABLETTE */
+@media (max-width: 768px) {
+
+  .header {
+    flex-direction: column;
+    gap: 20px;
+
+    padding: 20px;
+    text-align: center;
+  }
+
+  .nav {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .logo a {
+    font-size: 1.5rem;
+  }
+
+  .nav a {
+    font-size: 1rem;
+    padding: 10px 15px;
+  }
+}
+
+/* Media queries  */
+
+@media (max-width: 480px) {
+
+  .header {
+    border-radius: 0;
+    padding: 15px;
+  }
+
+  .nav {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .nav a {
+    width: 100%;
+    text-align: center;
+  }
+
+  .logo a {
+    font-size: 1.3rem;
+  }
+}
