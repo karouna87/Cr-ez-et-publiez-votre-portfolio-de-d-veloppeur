@@ -78,8 +78,8 @@
 
 
 /* Media queries */
-@media (max-width: 768px) {
 
+@media (max-width: 768px) {
   .hero {
     flex-direction: column;
     text-align: center;
