@@ -8,6 +8,7 @@
 }
 
 /* Accueil */
+
 .logo a {
   color: white;
   text-decoration: none;
@@ -16,6 +17,7 @@
 }
 
 /* liens de droite */
+
 .nav {
   display: flex;
   gap: 20px;
@@ -36,13 +38,11 @@
 }
 
 
-/* 📱 RESPONSIVE TABLETTE */
+/* Mediz queries - Tablette */
 @media (max-width: 768px) {
-
   .header {
     flex-direction: column;
     gap: 20px;
-
     padding: 20px;
     text-align: center;
   }
@@ -63,10 +63,11 @@
   }
 }
 
+
+
 /* Media queries  */
 
 @media (max-width: 480px) {
-
   .header {
     border-radius: 0;
     padding: 15px;

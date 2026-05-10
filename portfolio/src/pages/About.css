@@ -23,7 +23,7 @@
 
 .about-hero h1:hover {
   transform: scale(1.05);
-  color: #444;
+  color: grey;
   letter-spacing: 4px;
 }
 
@@ -61,7 +61,7 @@
   font-size: 1.2rem;
   line-height: 1.9;
   margin-bottom: 20px;
-  color: #333;
+  color: black;
 }
 
 .skills {
@@ -118,10 +118,9 @@
 
 
 
-/* Media quéries */
+/* Media queries */
 
 @media (max-width: 768px) {
-
   .about {
     padding: 40px 20px;
   }
