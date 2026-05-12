@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home.jsx";
 import About from "./pages/About";
 import Projects from "./pages/Projects";
@@ -8,7 +8,8 @@ import "./styles/main.css";
 
 function App() {
   return (
-    <BrowserRouter>
+
+    <div className="App">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -16,7 +17,7 @@ function App() {
         <Route path="/projects" element={<Projects />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-    </BrowserRouter>
+    </div>
   );
 }
 
