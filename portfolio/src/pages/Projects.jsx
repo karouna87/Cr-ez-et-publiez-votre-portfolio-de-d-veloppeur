@@ -142,12 +142,12 @@ function Projects() {
           </p>
 
           <a
-            href="http://127.0.0.1:5500/index.html"
+            href="https://github.com/karouna87/Cr-ez-la-page-d-accueil-d-une-agence-de-voyage-avec-HTML-CSS"
             target="_blank"
             rel="noreferrer"
             className="project-btn"
           >
-            Voir la page développée
+            Voir le repository GitHub
           </a>
         </div>
       </section>
