@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "18": "^0.0.0",
     "@emailjs/browser": "^4.4.1"
   }
 }
