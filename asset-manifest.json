@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/css/main.86d8bbe6.css",
-    "main.js": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/js/main.b99a4644.js",
+    "main.js": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/js/main.9a4bf420.js",
     "static/js/453.635f5f07.chunk.js": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/js/453.635f5f07.chunk.js",
     "static/media/profile.webp": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/media/profile.747b81b30067df670930.webp",
     "static/media/booki.webp": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/media/booki.8f251c114b52dc394c99.webp",
@@ -11,11 +11,11 @@
     "static/media/html.webp": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/media/html.86ff670964a184fc9ee4.webp",
     "index.html": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/index.html",
     "main.86d8bbe6.css.map": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/css/main.86d8bbe6.css.map",
-    "main.b99a4644.js.map": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/js/main.b99a4644.js.map",
+    "main.9a4bf420.js.map": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/js/main.9a4bf420.js.map",
     "453.635f5f07.chunk.js.map": "/Cr-ez-et-publiez-votre-portfolio-de-d-veloppeur/static/js/453.635f5f07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86d8bbe6.css",
-    "static/js/main.b99a4644.js"
+    "static/js/main.9a4bf420.js"
   ]
 }
